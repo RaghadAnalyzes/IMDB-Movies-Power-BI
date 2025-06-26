@@ -1,2 +1,24 @@
-# IMDB-Movies-Power-BI
-Power BI dashboard analyzing top 250 movies from IMDB by decade and rating
+# IMDb Top 250 Movies - Power BI Dashboard 🎬📊
+
+This project visualizes data of the Top 250 Movies from IMDb, categorized by decades, average rating, and more.
+
+## 📌 Dashboard Highlights
+- Total Movies: 250
+- Rating Range: 8.0 to 9.3
+- Highest rated decade: 2000s
+- Includes:
+  - Bar chart of movies per decade
+  - Pie chart distribution
+  - Top 10 ranked movies
+
+## 📁 Files
+- `IMDb_Top250.pbix` – Power BI dashboard file
+- `movies.csv` – Original data extracted from IMDb website
+- `dashboard_preview.png` – Screenshot of the dashboard
+
+## 📡 Data Source
+Data scraped directly from IMDb website using Power BI Web connector.
+
+---
+
+⭐️ Created with love by Raghad Al-Ghamdi 🌟

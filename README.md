@@ -14,7 +14,8 @@ This project visualizes data of the Top 250 Movies from IMDb, categorized by dec
 ## 📁 Files
 - `IMDb_Top250.pbix` – Power BI dashboard file
 - `movies.csv` – Original data extracted from IMDb website
-- `dashboard_preview.png` – Screenshot of the dashboard
+- `dashboard_preview.png` –[ Screenshot of the dashboard](https://github.com/RaghadAnalyzes/IMDB-Movies-Power-BI/blob/main/Screenshot%20Dashboard%20.png)
+  
 
 ## 📡 Data Source
 Data scraped directly from IMDb website using Power BI Web connector.
